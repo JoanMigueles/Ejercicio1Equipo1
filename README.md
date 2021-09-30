@@ -1,5 +1,5 @@
 # Equipo
 - J: Joan Migueles
-- Colaboradores:
+Colaboradores:
 - M1: Alex Lahiguera
 - M2: Raul Benitez
